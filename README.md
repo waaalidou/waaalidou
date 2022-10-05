@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Walid
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Basics qlgorithms and Data structures from CS50
-- 💞️ I’m looking to collaborate on Learning these fundamentels
+- 👀 I’m interested in ML
+- 🌱I have little knowledge in desktop app (JavaFX/MySQL)
+- 💞️ Any advice, suggestion, is very welcomed !
 
 
 <!---
