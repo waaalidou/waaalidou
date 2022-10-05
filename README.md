@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Walid
 - 👀 I’m interested in ML
-- 🌱I have little knowledge in desktop app (JavaFX/MySQL)
+- 🌱I have little knowledge in desktop app (JavaFX/MySQL) & python
+- Good knowlidge in c/c++
 - 💞️ Any advice, suggestion, is very welcomed !
 
 
