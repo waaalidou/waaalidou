@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Walid
 - 👀 I’m interested in ML
-- 🌱I have little knowledge in desktop/;obile app (JavaFX/MySQL/flutter) & python
+- 🌱I have little knowledge in desktop/mobile app (JavaFX/MySQL/flutter) & python
+- Currently diving in Flutter!
 - Good knowlidge in c/c++
 - 💞️ Any advice, suggestion, is very welcomed !
 
